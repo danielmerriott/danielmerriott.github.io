@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Daniel Merriott</title>
+    <description>Follow &lt;a href=&quot;https://micro.blog/danielmerriott&quot;&gt;@danielmerriott on Micro.blog&lt;/a&gt;.</description>
+    <link>https://danielmerriott.micro.blog/</link>
+    <pubDate>Tue, 19 Jun 2018 13:00:11 +1200</pubDate>
+    <lastBuildDate>Tue, 19 Jun 2018 13:00:11 +1200</lastBuildDate>
+	<itunes:image href="https://micro.blog/danielmerriott/podcast.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:author>Daniel Merriott</itunes:author>
+	<itunes:explicit>no</itunes:explicit>		
+	<language>en</language>
+    
+  </channel>
+</rss>
