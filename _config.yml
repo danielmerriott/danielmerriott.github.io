@@ -1,0 +1,58 @@
+aboutPage: true
+
+# - markdown: redcarpet
+highlighter: rouge
+
+domain_# - name: "http://[HOSTNAME]"
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_short# - name: 'your-disqus-shortname'
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
+
+title: "Daniel Merriott"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/danielmerriott\">@danielmerriott on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/danielmerriott\">@danielmerriott on Micro.blog</a>."
+baseurl: ""
+url: "https://danielmerriott.micro.blog"
+markdown: "kramdown"
+username: "danielmerriott"
+microblog_user: "danielmerriott"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Daniel Merriott"
+name: "Daniel Merriott"
+gravatar_hash: "9119dc6d1b1c228e282ac1342b3e4937"
+avatar: "https://micro.blog/danielmerriott/avatar.jpg"
+full_name: "Daniel Merriott"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "Pacific/Wallis"
+site_id: "668"
+gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Daniel Merriott"
